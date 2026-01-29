@@ -1,0 +1,3 @@
+# Ignore only Markdown files
+*.md
+*.mkd
